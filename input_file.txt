@@ -1,0 +1,19 @@
+> This is an example input file.
+> The input file counts words.
+> Not many words in this input file.
+> EOF
+
+q
+exit
+q
+q
+exit
+
+
+
+
+
+csd
+.
+..
+cd ..
